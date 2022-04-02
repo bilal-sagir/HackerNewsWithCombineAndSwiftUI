@@ -13,6 +13,7 @@ struct StoryListView: View {
     
     var body: some View {
         NavigationView{
+            
             List(self.storyListVM.stories, id: \.id) { storyVM in
                 NavigationLink(destination: StoryDetailView(storyId: storyVM.id)) {
                     Text("\(storyVM.title)")
