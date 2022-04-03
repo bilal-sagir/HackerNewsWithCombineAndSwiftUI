@@ -9,7 +9,7 @@ I just started learning Combine Framework and SwiftUI. This project is the final
 
 I had some problems because it is an old course. Although Hackersnew has close to 400 news reports, APICALL never shows them all. Although I reduced the incoming news to 50, I could only get 5 news at most. I will try to fix it in the future.
 
-#Screenshots
+# Screenshots
 
 
 https://user-images.githubusercontent.com/93740120/161433610-8f18b422-bba5-4b0d-823b-1691e481de7a.mov
